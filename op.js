@@ -14,7 +14,7 @@ ikRockArrowFunctions2();
 console.log(`Opdracht B: remove curly and return statement`)
 
 const fivePlusSeven2 = () => 5 + 7
-console.log(`${fivePlusSeven2}: Gaat niet goed ergens, twijfel`);
+console.log(`${fivePlusSeven2} Oke dan`);
 fivePlusSeven2();
 
 //===== Opdracht C =====
